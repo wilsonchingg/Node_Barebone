@@ -1,0 +1,27 @@
+{
+  "name": "Visa-API-Test",
+  "description": "Visa-API-Test",
+  "version": "0.0.1",
+  "author": "Wilson Ching",
+  "scripts": {
+    "start": "node --use_strict app.js"
+  },
+  "contributors": [
+    "Wilson Ching"
+  ],
+  "dependencies": {
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "The MIT License",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ]
+}
