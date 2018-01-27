@@ -2,20 +2,20 @@
   "name": "",
   "description": "",
   "version": "0.0.1",
-  "author": "Wilson Ching",
+  "author": "",
   "scripts": {
     "start": "node --use_strict app.js"
   },
   "contributors": [
-    "Wilson Ching"
   ],
   "dependencies": {
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0"
   },
   "engines": {
     "node": ">=4.0.0"
   },
   "keywords": [
-    "heroku"
   ],
   "license": "MIT",
   "licenses": [
