@@ -6,8 +6,7 @@
   "scripts": {
     "start": "node --use_strict app.js"
   },
-  "contributors": [
-  ],
+  "contributors": [],
   "dependencies": {
     "express": "^4.16.2",
     "express-handlebars": "^3.0.0"
@@ -15,13 +14,16 @@
   "engines": {
     "node": ">=4.0.0"
   },
-  "keywords": [
-  ],
+  "keywords": [],
   "license": "MIT",
   "licenses": [
     {
       "type": "The MIT License",
       "url": "http://www.opensource.org/licenses/mit-license.php"
     }
-  ]
+  ],
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-react": "^7.12.4"
+  }
 }
